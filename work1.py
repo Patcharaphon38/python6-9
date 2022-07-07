@@ -1,0 +1,10 @@
+print("Hello 6/9")
+print ("Patcharaphon Ponjanthao" )
+print ("weight",64,"kilogram" )
+print ("height",180,"centimeter" )
+print ("DayBorn",1,"Day" )
+print ("Month",11,"Nov." )
+print ("yearBorn",2004,"ปี" )
+print ("age",17,"old" )
+print ("FavoriteColor","lightBlue" )
+#พัชรพล พรจันเท้า เลขที่38 6/9
